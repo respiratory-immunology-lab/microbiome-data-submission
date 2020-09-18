@@ -24,11 +24,11 @@ Microbiome samples will be registered as *MIMARKS Specimen samples*. On the BioS
 - Organism: human metagenome
 - Strain, isolate, cultivar, ecotype: not applicable
 - Add any relevant host information in the table as well as the host tissue samples
-- If not relevant: not applicable
+- Any other colum which is not relevant: not applicable
 
 #### SRA
 This is where everything gets linked! Use the BioProject (same for all samples and data) and the BioSamples (different for each sample and data) accession numbers. On the SRA metadata tab, download the SRA metadata Excel template and fill it accordingly before uploading it. 
-- Title: metagenome of "insert the organism and important information" e.g. of neonatal lower airways
+- Title: metagenome of "insert the organism and important information" e.g. "metagenome of human lower airways"
 - Library ID: Sample name
 - Library strategy: AMPLICON
 - Library source: METAGENOMIC
@@ -44,7 +44,7 @@ Upload the individual R1 and R2 demultiplexed fastq files.
 
 Note: can take a few days for the processing.
 
-
+#### 
 
 
 
