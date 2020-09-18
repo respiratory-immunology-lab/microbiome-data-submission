@@ -44,8 +44,18 @@ Upload the individual R1 and R2 demultiplexed fastq files.
 
 Note: can take a few days for the processing.
 
-#### 
+## How to upload files
 
+Using FileZilla https://filezilla-project.org/ program is more effective when you have large files and/or a large number of files.
+
+In FileZilla, open the sites manager and connect to NCBI as following:
+- Protocol: FTP
+- Host: ftp-private.ncbi.nlm.nih.gov
+- Username: subftp
+- Password: (this is your user-specific NCBI password given when you submit your data)
+- Select Connect
+- Copy/past Remote site: (this is your user-specific account folder, on the right side)
+- Hit enter to gain access to your account folder on the NCBI server
 
 
 
