@@ -1,4 +1,4 @@
-# submit-microbiome-data-to-SRA
+# Microbiome data submission to SRA
 Pipeline on how to register a BioProject, BioSamples and submit sequencing data to NCBI SRA.
 
 ## Steps
